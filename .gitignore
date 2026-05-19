@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+state.json
+trading_log.txt
+chart.png
+equity.png
+app_err.log
+.env
